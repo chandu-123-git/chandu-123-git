@@ -115,7 +115,7 @@ AI-powered shopping assistant that helps users discover products through intelli
 `n8n` • `Google Gemini` • `Whisper` • `Telegram` • `ScraperAPI`
 
 <p>
-<a href="https://github.com/chandu-123-git/AI-Shopping-Assistant">
+<a href="https://github.com/chandu-123-git/AI-Shopping-Assistant-n8n">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
