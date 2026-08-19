@@ -1,98 +1,179 @@
-<h1 align="center">Hi, I'm Chandu Sri Nellepalli 👋</h1>
+<h1 align="center">Hi 👋, I'm Chandu Sri Nellepalli</h1>
+
+<h3 align="center">B.Tech CSE Graduate • Full Stack & AI Developer • Python • React • Java • Generative AI</h3>
 
 <p align="center">
-B.Tech CSE Graduate • Full Stack & AI Developer
-</p>
-
-<p align="center">
-Python • Java • React.js • Flask • Django • Generative AI
+  <a href="mailto:chandusri0612@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chandu-sri-nellepalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/chandu-123-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ## About Me
 
-B.Tech Computer Science Graduate with a strong interest in Full Stack Development and Generative AI. I build AI-powered applications, responsive web applications, and backend solutions using modern development frameworks and tools.
+Computer Science graduate with strong foundations in **Software Engineering, Full Stack Development, and Generative AI**. Experienced in building AI-powered applications, REST APIs, responsive web applications, and backend solutions using modern development frameworks.
 
-- 🎓 B.Tech in Computer Science and Engineering (CSD)
+- 🎓 **B.Tech – Computer Science & Engineering (CSD)** | CGPA **9.3/10**
 - 📍 Tirupati, Andhra Pradesh, India
-- 💻 Interested in Full Stack Development, AI Applications, and Software Engineering
-- 🌱 Currently learning Spring Boot and AI Agent Development
+- 🤖 Completed **Generative AI** and **LLM Applications** programs through NxtWave
+- 💻 Built **20+ web and AI projects** covering Full Stack Development, APIs, dashboards, authentication systems, and AI applications
+- 🌱 Currently learning **Spring Boot**, **Advanced Java**, and **AI Agent Development**
 
 ---
 
 ## Technical Skills
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Java, Python, JavaScript, TypeScript, C++ |
-| **Frontend** | React.js, HTML5, CSS3, Bootstrap |
-| **Backend** | Flask, Django, Node.js, Express.js |
-| **AI & LLM** | Generative AI, LLM Applications, LangChain, LangGraph, n8n |
-| **Database** | MySQL |
-| **Tools** | Git, GitHub, Postman, VS Code |
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>Java, Python, JavaScript (ES6+), TypeScript, C++</td>
+</tr>
+
+<tr>
+<td><strong>Frontend</strong></td>
+<td>React.js, HTML5, CSS3, Bootstrap, Responsive Web Design</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>Flask, Django, Node.js, Express.js, REST APIs, JWT Authentication</td>
+</tr>
+
+<tr>
+<td><strong>Generative AI</strong></td>
+<td>Google Gemini, LangChain, LangGraph, n8n, AI Workflows, LLM Applications</td>
+</tr>
+
+<tr>
+<td><strong>Databases</strong></td>
+<td>MySQL</td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td>Git, GitHub, Postman, VS Code</td>
+</tr>
+</table>
+
+---
+
+## Generative AI Expertise
+
+Recently completed industry-oriented training in:
+
+- ✅ **Generative AI**
+- ✅ **LLM Applications**
+
+Key concepts explored include:
+
+- Prompt Engineering
+- Large Language Models (LLMs)
+- AI Agents
+- LangChain
+- LangGraph
+- AI Workflow Automation
+- Retrieval-Augmented Workflows
+- Voice AI Integration
 
 ---
 
 ## Featured Projects
 
 ### 🎤 AI Interview Assistant
-Voice-based AI interview assistant with adaptive questioning, speech recognition, and AI-generated interview feedback.
 
-**Tech:** Flask • LangChain • LangGraph • Google Gemini • AssemblyAI • Murf AI
+Voice-based AI interview assistant that conducts adaptive interviews with conversational memory, speech recognition, AI-generated responses, and detailed interview feedback.
 
-🔗 **Repository:** https://github.com/chandu-123-git/AI-Interview-Assistant
+**Tech Stack**
+
+`Flask` • `LangChain` • `LangGraph` • `Google Gemini` • `AssemblyAI` • `Murf AI`
+
+🔗 **Repository:**  
+https://github.com/chandu-123-git/AI-Interview-Assistant
 
 ---
 
 ### 🛒 AI Shopping Assistant
-AI-powered shopping assistant that helps users discover products through voice and text using automated workflows.
 
-**Tech:** n8n • Google Gemini • Whisper • Telegram • ScraperAPI
+AI-powered shopping assistant built with intelligent automation workflows that helps users discover products using voice and text interactions.
 
-🔗 **Repository:** https://github.com/chandu-123-git/AI-Shopping-Assistant
+**Tech Stack**
+
+`n8n` • `Google Gemini` • `Whisper` • `Telegram` • `ScraperAPI`
+
+🔗 **Repository:**  
+https://github.com/chandu-123-git/AI-Shopping-Assistant
 
 ---
 
 ### 🛍️ Nxt Trendz E-Commerce Platform
-Responsive e-commerce application with JWT authentication, protected routes, and REST API integration.
 
-**Tech:** React.js • JWT Authentication • REST APIs
+Responsive e-commerce application with secure authentication, protected routes, product filtering, search, sorting, and REST API integration.
 
-🔗 **Repository:** https://github.com/chandu-123-git/Nxt-Trendz-Ecommerce
+**Tech Stack**
+
+`React.js` • `JWT Authentication` • `REST APIs`
+
+🔗 **Repository:**  
+https://github.com/chandu-123-git/Nxt-Trendz-Ecommerce
 
 ---
 
 ### 🏏 IPL Dashboard
-Dynamic React application displaying live IPL team and match information using REST APIs.
 
-**Tech:** React.js • REST APIs
+Dynamic React application displaying live IPL teams, match information, and recent match statistics using REST APIs.
 
-🔗 **Repository:** https://github.com/chandu-123-git/IPL-Dashboard
+**Tech Stack**
+
+`React.js` • `REST APIs`
+
+🔗 **Repository:**  
+https://github.com/chandu-123-git/IPL-Dashboard
 
 ---
 
-## GitHub Stats
+## Learning Journey
+
+Alongside academic learning, I've consistently worked on practical software development through NxtWave by building projects, solving coding exercises, and learning modern development practices.
+
+Highlights include:
+
+- Full Stack Development
+- React.js Development
+- Backend Development
+- API Integration
+- Authentication Systems
+- Database Connectivity
+- Generative AI
+- LLM Applications
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandu-123-git&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandu-123-git&theme=default&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chandu-123-git&show_icons=true&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandu-123-git&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu-123-git&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
-  <a href="mailto:chandusri0612@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:chandusri0612@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/chandu-sri-nellepalli">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/chandu-sri-nellepalli">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/chandu-123-git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/chandu-123-git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
